@@ -1,8 +1,8 @@
 # Iris tutorials and examples
 
-1. <a href="http://nbviewer.ipython.org/github/scott-hosking/iris-introduction/blob/master/iris-basics.ipynb" target="_blank">The Basics</a> 
-2. <a href="http://nbviewer.jupyter.org/github/scott-hosking/iris-introduction/blob/master/Iris_deriving_and_plotting_winds.ipynb" target="_blank">Wind speed and direction</a>
-3. <a href="http://nbviewer.jupyter.org/github/scott-hosking/iris-introduction/blob/master/Iris_plotting_nemo_grid.ipynb" target="_blank">NEMO sea surface temperatures and sea ice</a>
+1. <a href="iris-basics.ipynb" target="_blank">The Basics</a> 
+2. <a href="Iris_deriving_and_plotting_winds.ipynb" target="_blank">Wind speed and direction</a>
+3. <a href="Iris_plotting_nemo_grid.ipynb" target="_blank">NEMO sea surface temperatures and sea ice</a>
 
 ### Installing Iris
 
