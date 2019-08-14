@@ -1,3 +1,3 @@
 # notebooks
 
-https://nbviewer.jupyter.org/github/scott-hosking/notebooks/tree/master/
+View these notebooks using --> https://nbviewer.jupyter.org/github/scott-hosking/notebooks/tree/master/
